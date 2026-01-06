@@ -1,12 +1,3 @@
----
-slug: seatunnel-api-deep-dive
-title: Apache SeaTunnel API Deep Dive
-authors: seatunnel-committers
-tags: [API, SeaTunnel, Architecture]
-description: Deep dive into Apache SeaTunnel Source, Transform, and Sink APIs with detailed interface walkthroughs.
-image: ../static/image/seatunnel-api-deep-dive/*.png
----
-
 # Apache SeaTunnel API Deep Dive
 
 ## Introduction
